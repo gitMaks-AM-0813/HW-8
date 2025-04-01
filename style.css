@@ -1,0 +1,61 @@
+li:nth-child(1) {
+    color: blue;
+}
+
+li:nth-child(2) {
+    color: red;
+}
+li:nth-child(3) {
+    color: yellow;
+}
+li:nth-child(4) {
+    color: green;
+}
+li:nth-child(5) {
+    color: pink;
+}
+h2:nth-of-type(1) {
+    color: purple;
+}
+h2:nth-of-type(2) {
+    color: brown;
+}
+h2:nth-of-type(3) {
+    color: gray;
+}
+h2:nth-of-type(4) {
+    color: green;
+}
+h2:nth-of-type(5) {
+    color: yellow;
+}
+ul:nth-of-type(1) {
+    background-color: blue;
+}
+ul:nth-of-type(2) {
+    background-color: red;
+}
+ul:nth-of-type(3) {
+    background-color: lightgreen;
+}
+ul:nth-of-type(4) {
+    background-color: lightblue;
+}
+ul:nth-of-type(5) {
+    background-color: orange;
+}
+h3:nth-of-type(1){
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+p:nth-of-type(3){
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+div p:nth-child(1) {
+    color: red;
+}
