@@ -1,5 +1,6 @@
 li:nth-child(1) {
     color: blue;
+    
 }
 
 li:nth-child(2) {
@@ -58,4 +59,7 @@ p:nth-of-type(3){
 }
 div p:nth-child(1) {
     color: red;
+}
+li:hover{
+    color: black;
 }
